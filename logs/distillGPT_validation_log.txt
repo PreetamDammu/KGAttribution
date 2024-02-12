@@ -1,0 +1,139 @@
+[2024-02-12 07:04:48] Saved temp file at index 10/1022!
+[2024-02-12 07:05:50] Saved temp file at index 20/1022!
+[2024-02-12 07:06:30] Failed to generate GPT response for prompt: 
+Label the claims or statements in the following text as “Attributable”, “Contradictory”, or “Exploratory” by evaluating it against the provided triplets.
+Provide rationale for the prediction. 
+
+“Attributable” means that the sentence can be supported by the triplets
+“Contradictory” means that the sentence can be refuted by the triplets, and 
+“Exploratory” means that the triplets can neither support nor refute the sentence.
+
+Input sentence:  Most male performers in heterosexual pornography are generally selected less for heterosexual pornography looks than for heterosexual pornography sexual prowess, namely heterosexual pornography ability to do three things: achieve an erection while on a busy film set, maintain that erection while performing on camera, and then ejaculate on cue.
+
+Valid triplets: [('pornographic film', 'subclass of', 'pornography'), ('They Come In Peace', 'instance of', 'film'), ('Unleashed Perversions of Emanuelle', 'instance of', 'film'), ('Petites cochonnes bulgares', 'instance of', 'film'), ('Trashy Lady', 'genre', 'pornographic film'), ('Sophiesticated', 'instance of', 'film'), ('Worlds Biggest Gang Bang', 'genre', 'pornographic film'), ('They Come In Peace', 'genre', 'pornographic film'), ('Petites cochonnes bulgares', 'genre', 'pornographic film'), ('Sophiesticated', 'genre', 'pornographic film'), ('Worlds Biggest Gang Bang', 'instance of', 'film'), ('Trashy Lady', 'instance of', 'film'), ('Unleashed Perversions of Emanuelle', 'genre', 'pornographic film')]
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your output as: *text_span* #prediction# [Triplet(s), rationale].
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-12 07:06:59] Failed to generate GPT response for prompt: 
+Label the claims or statements in the following text as “Attributable”, “Contradictory”, or “Exploratory” by evaluating it against the provided triplets.
+Provide rationale for the prediction. 
+
+“Attributable” means that the sentence can be supported by the triplets
+“Contradictory” means that the sentence can be refuted by the triplets, and 
+“Exploratory” means that the triplets can neither support nor refute the sentence.
+
+Input sentence:  The pornography industry in the United States was the first to develop a star system, especially for commercial reasons.
+
+Valid triplets: [('pornographic film', 'subclass of', 'pornography'), ('American Virgin', 'main subject', 'pornography'), ('Trashy Lady', 'genre', 'pornographic film'), ('revenge porn', 'subclass of', 'pornography'), ('Intimate Privacy Protection Act', 'applies to jurisdiction', 'United States of America'), ('American Virgin', 'country of origin', 'United States of America'), ('Those Lynn Girls', 'genre', 'pornography'), ('Intimate Privacy Protection Act', 'country', 'United States of America'), ('Intimate Privacy Protection Act', 'main subject', 'revenge porn'), ('Trashy Lady', 'country of origin', 'United States of America'), ('Those Lynn Girls', 'country of origin', 'United States of America')]
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your output as: *text_span* #prediction# [Triplet(s), rationale].
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-12 07:07:24] Saved temp file at index 30/1022!
+[2024-02-12 07:08:15] Saved temp file at index 40/1022!
+[2024-02-12 07:09:12] Saved temp file at index 50/1022!
+[2024-02-12 07:10:04] Saved temp file at index 60/1022!
+[2024-02-12 07:11:00] Saved temp file at index 70/1022!
+[2024-02-12 07:12:09] Saved temp file at index 80/1022!
+[2024-02-12 07:12:58] Saved temp file at index 90/1022!
+[2024-02-12 07:13:57] Saved temp file at index 100/1022!
+[2024-02-12 07:14:47] Saved temp file at index 110/1022!
+[2024-02-12 07:15:47] Saved temp file at index 120/1022!
+[2024-02-12 07:16:47] Saved temp file at index 130/1022!
+[2024-02-12 07:17:40] Saved temp file at index 140/1022!
+[2024-02-12 07:18:56] Saved temp file at index 150/1022!
+[2024-02-12 07:19:53] Saved temp file at index 160/1022!
+[2024-02-12 07:20:45] Saved temp file at index 170/1022!
+[2024-02-12 07:22:01] Saved temp file at index 180/1022!
+[2024-02-12 07:22:58] Saved temp file at index 190/1022!
+[2024-02-12 07:23:56] Saved temp file at index 200/1022!
+[2024-02-12 07:25:01] Saved temp file at index 210/1022!
+[2024-02-12 07:26:12] Saved temp file at index 220/1022!
+[2024-02-12 07:27:05] Saved temp file at index 230/1022!
+[2024-02-12 07:28:06] Saved temp file at index 240/1022!
+[2024-02-12 07:29:32] Saved temp file at index 250/1022!
+[2024-02-12 07:30:35] Saved temp file at index 260/1022!
+[2024-02-12 07:31:32] Saved temp file at index 270/1022!
+[2024-02-12 07:32:22] Saved temp file at index 280/1022!
+[2024-02-12 07:33:30] Saved temp file at index 290/1022!
+[2024-02-12 07:34:09] Saved temp file at index 300/1022!
+[2024-02-12 07:35:21] Saved temp file at index 310/1022!
+[2024-02-12 07:36:23] Saved temp file at index 320/1022!
+[2024-02-12 07:37:16] Saved temp file at index 330/1022!
+[2024-02-12 07:38:28] Saved temp file at index 340/1022!
+[2024-02-12 07:39:25] Saved temp file at index 350/1022!
+[2024-02-12 07:40:10] Saved temp file at index 360/1022!
+[2024-02-12 07:41:12] Saved temp file at index 370/1022!
+[2024-02-12 07:43:10] Saved temp file at index 380/1022!
+[2024-02-12 07:44:17] Saved temp file at index 390/1022!
+[2024-02-12 07:45:30] Saved temp file at index 400/1022!
+[2024-02-12 07:46:44] Saved temp file at index 410/1022!
+[2024-02-12 07:47:42] Saved temp file at index 420/1022!
+[2024-02-12 07:48:41] Saved temp file at index 430/1022!
+[2024-02-12 07:49:36] Saved temp file at index 440/1022!
+[2024-02-12 07:50:43] Saved temp file at index 450/1022!
+[2024-02-12 07:52:08] Saved temp file at index 460/1022!
+[2024-02-12 07:53:32] Saved temp file at index 470/1022!
+[2024-02-12 07:54:38] Saved temp file at index 480/1022!
+[2024-02-12 07:55:45] Saved temp file at index 490/1022!
+[2024-02-12 07:56:35] Saved temp file at index 500/1022!
+[2024-02-12 07:57:37] Saved temp file at index 510/1022!
+[2024-02-12 07:58:47] Saved temp file at index 520/1022!
+[2024-02-12 07:59:48] Saved temp file at index 530/1022!
+[2024-02-12 08:00:34] Saved temp file at index 540/1022!
+[2024-02-12 08:01:44] Saved temp file at index 550/1022!
+[2024-02-12 08:03:04] Saved temp file at index 560/1022!
+[2024-02-12 08:04:18] Saved temp file at index 570/1022!
+[2024-02-12 08:05:21] Saved temp file at index 580/1022!
+[2024-02-12 08:06:25] Saved temp file at index 590/1022!
+[2024-02-12 08:07:34] Saved temp file at index 600/1022!
+[2024-02-12 08:08:37] Saved temp file at index 610/1022!
+[2024-02-12 08:09:31] Saved temp file at index 620/1022!
+[2024-02-12 08:10:34] Saved temp file at index 630/1022!
+[2024-02-12 08:11:34] Saved temp file at index 640/1022!
+[2024-02-12 08:12:49] Saved temp file at index 650/1022!
+[2024-02-12 08:13:48] Saved temp file at index 660/1022!
+[2024-02-12 08:14:37] Saved temp file at index 670/1022!
+[2024-02-12 08:15:32] Saved temp file at index 680/1022!
+[2024-02-12 08:16:26] Saved temp file at index 690/1022!
+[2024-02-12 08:17:19] Saved temp file at index 700/1022!
+[2024-02-12 08:18:32] Saved temp file at index 710/1022!
+[2024-02-12 08:19:20] Saved temp file at index 720/1022!
+[2024-02-12 08:20:33] Saved temp file at index 730/1022!
+[2024-02-12 08:21:46] Saved temp file at index 740/1022!
+[2024-02-12 08:22:37] Saved temp file at index 750/1022!
+[2024-02-12 08:23:41] Saved temp file at index 760/1022!
+[2024-02-12 08:24:41] Saved temp file at index 770/1022!
+[2024-02-12 08:25:36] Saved temp file at index 780/1022!
+[2024-02-12 08:26:59] Saved temp file at index 790/1022!
+[2024-02-12 08:27:53] Saved temp file at index 800/1022!
+[2024-02-12 08:29:02] Saved temp file at index 810/1022!
+[2024-02-12 08:30:03] Saved temp file at index 820/1022!
+[2024-02-12 08:31:07] Saved temp file at index 830/1022!
+[2024-02-12 08:32:28] Saved temp file at index 840/1022!
+[2024-02-12 08:33:18] Saved temp file at index 850/1022!
+[2024-02-12 08:34:54] Saved temp file at index 860/1022!
+[2024-02-12 08:35:54] Saved temp file at index 870/1022!
+[2024-02-12 08:36:48] Saved temp file at index 880/1022!
+[2024-02-12 08:38:21] Saved temp file at index 890/1022!
+[2024-02-12 08:39:48] Saved temp file at index 900/1022!
+[2024-02-12 08:40:38] Saved temp file at index 910/1022!
+[2024-02-12 08:41:42] Saved temp file at index 920/1022!
+[2024-02-12 08:42:34] Saved temp file at index 930/1022!
+[2024-02-12 08:43:43] Saved temp file at index 940/1022!
+[2024-02-12 08:44:59] Saved temp file at index 950/1022!
+[2024-02-12 08:46:10] Saved temp file at index 960/1022!
+[2024-02-12 08:47:41] Saved temp file at index 970/1022!
+[2024-02-12 08:49:07] Saved temp file at index 980/1022!
+[2024-02-12 08:50:02] Saved temp file at index 990/1022!
+[2024-02-12 08:51:01] Saved temp file at index 1000/1022!
+[2024-02-12 08:52:16] Saved temp file at index 1010/1022!
+[2024-02-12 08:53:19] Saved temp file at index 1020/1022!
+[2024-02-12 08:53:29] Saved final file with size 1022!
