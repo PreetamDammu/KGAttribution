@@ -313,3 +313,1408 @@
 [2024-02-12 19:11:18] Saved temp file at index 3110/20360!
 [2024-02-12 19:11:45] Saved temp file at index 3120/20360!
 [2024-02-12 19:12:32] Saved temp file at index 3130/20360!
+[2024-02-12 20:52:24] Saved temp file at index 3130/20360!
+[2024-02-12 20:54:16] Saved temp file at index 3140/20360!
+[2024-02-12 20:55:37] Saved temp file at index 3150/20360!
+[2024-02-12 20:56:30] Saved temp file at index 3160/20360!
+[2024-02-12 20:58:24] Saved temp file at index 3170/20360!
+[2024-02-12 20:58:44] Saved temp file at index 3180/20360!
+[2024-02-12 20:59:18] Saved temp file at index 3190/20360!
+[2024-02-12 21:02:33] Saved temp file at index 3200/20360!
+[2024-02-12 21:04:05] Saved temp file at index 3210/20360!
+[2024-02-12 21:05:24] Saved temp file at index 3220/20360!
+[2024-02-12 21:06:45] Saved temp file at index 3230/20360!
+[2024-02-12 21:10:01] Saved temp file at index 3240/20360!
+[2024-02-12 21:10:32] Saved temp file at index 3250/20360!
+[2024-02-12 21:10:32] Saved temp file at index 3260/20360!
+[2024-02-12 21:10:32] Saved temp file at index 3270/20360!
+[2024-02-12 21:12:28] Saved temp file at index 3280/20360!
+[2024-02-12 21:14:03] Saved temp file at index 3290/20360!
+[2024-02-12 21:14:22] Saved temp file at index 3300/20360!
+[2024-02-12 21:14:32] Saved temp file at index 3310/20360!
+[2024-02-12 21:14:48] Saved temp file at index 3320/20360!
+[2024-02-12 21:16:46] Saved temp file at index 3330/20360!
+[2024-02-12 21:17:23] Saved temp file at index 3340/20360!
+[2024-02-12 21:17:57] Saved temp file at index 3350/20360!
+[2024-02-12 21:19:29] Saved temp file at index 3360/20360!
+[2024-02-12 21:21:06] Saved temp file at index 3370/20360!
+[2024-02-12 21:21:49] Saved temp file at index 3380/20360!
+[2024-02-12 21:21:55] Saved temp file at index 3390/20360!
+[2024-02-12 21:22:21] Saved temp file at index 3400/20360!
+[2024-02-12 21:23:31] Saved temp file at index 3410/20360!
+[2024-02-12 21:24:14] Saved temp file at index 3420/20360!
+[2024-02-12 21:24:40] Saved temp file at index 3430/20360!
+[2024-02-12 21:25:36] Saved temp file at index 3440/20360!
+[2024-02-12 21:26:12] Saved temp file at index 3450/20360!
+[2024-02-12 21:26:50] Saved temp file at index 3460/20360!
+[2024-02-12 21:28:35] Saved temp file at index 3470/20360!
+[2024-02-12 21:30:39] Saved temp file at index 3480/20360!
+[2024-02-12 21:32:37] Saved temp file at index 3490/20360!
+[2024-02-12 21:35:10] Saved temp file at index 3500/20360!
+[2024-02-12 21:36:35] Saved temp file at index 3510/20360!
+[2024-02-12 21:36:45] Saved temp file at index 3520/20360!
+[2024-02-12 21:38:29] Saved temp file at index 3530/20360!
+[2024-02-12 21:38:57] Saved temp file at index 3540/20360!
+[2024-02-12 21:39:07] Saved temp file at index 3550/20360!
+[2024-02-12 21:41:20] Saved temp file at index 3560/20360!
+[2024-02-12 21:41:37] Saved temp file at index 3570/20360!
+[2024-02-12 21:42:18] Saved temp file at index 3580/20360!
+[2024-02-12 21:42:58] Saved temp file at index 3590/20360!
+[2024-02-12 21:44:27] Saved temp file at index 3600/20360!
+[2024-02-12 21:45:12] Saved temp file at index 3610/20360!
+[2024-02-12 21:45:58] Saved temp file at index 3620/20360!
+[2024-02-12 21:47:36] Saved temp file at index 3630/20360!
+[2024-02-12 21:51:13] Saved temp file at index 3640/20360!
+[2024-02-12 21:54:41] Saved temp file at index 3650/20360!
+[2024-02-12 21:56:26] Saved temp file at index 3660/20360!
+[2024-02-12 21:57:13] Saved temp file at index 3670/20360!
+[2024-02-12 21:58:48] Saved temp file at index 3680/20360!
+[2024-02-12 21:59:09] Saved temp file at index 3690/20360!
+[2024-02-12 21:59:20] Saved temp file at index 3700/20360!
+[2024-02-12 21:59:45] Saved temp file at index 3710/20360!
+[2024-02-12 22:01:15] Saved temp file at index 3720/20360!
+[2024-02-12 22:02:57] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  New ethnic conflicts emerged in Africa , the Balkans and the Caucasus , the former two which led to the Rwandan genocide and Bosnian genocide , respectively.
+
+Relational paths:
+Relational Path 1: ('რუსეთ-ოსმალეთის ომის კავკასიის ფრონტი (1877-1878)', 'location', 'Caucasus')('რუსეთ-ოსმალეთის ომის კავკასიის ფრონტი (1877-1878)', 'part of', 'Tenth Russo-Turkish War')('Tenth Russo-Turkish War', 'location', 'Balkans') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-12 22:02:58] Saved temp file at index 3730/20360!
+[2024-02-12 22:04:24] Saved temp file at index 3740/20360!
+[2024-02-12 22:06:02] Saved temp file at index 3750/20360!
+[2024-02-12 22:08:08] Saved temp file at index 3760/20360!
+[2024-02-12 22:10:02] Saved temp file at index 3770/20360!
+[2024-02-12 22:10:39] Saved temp file at index 3780/20360!
+[2024-02-12 22:14:23] Saved temp file at index 3790/20360!
+[2024-02-12 22:15:32] Saved temp file at index 3800/20360!
+[2024-02-12 22:16:10] Saved temp file at index 3810/20360!
+[2024-02-12 22:16:32] Saved temp file at index 3820/20360!
+[2024-02-12 22:16:51] Saved temp file at index 3830/20360!
+[2024-02-12 22:17:28] Saved temp file at index 3840/20360!
+[2024-02-12 22:19:02] Saved temp file at index 3850/20360!
+[2024-02-12 22:21:03] Saved temp file at index 3860/20360!
+[2024-02-12 22:22:53] Saved temp file at index 3870/20360!
+[2024-02-12 22:23:05] Saved temp file at index 3880/20360!
+[2024-02-12 22:24:53] Saved temp file at index 3890/20360!
+[2024-02-12 22:25:14] Saved temp file at index 3900/20360!
+[2024-02-12 22:27:00] Saved temp file at index 3910/20360!
+[2024-02-12 22:29:46] Saved temp file at index 3920/20360!
+[2024-02-12 22:31:51] Saved temp file at index 3930/20360!
+[2024-02-12 22:33:54] Saved temp file at index 3940/20360!
+[2024-02-12 22:34:37] Saved temp file at index 3950/20360!
+[2024-02-12 22:35:27] Saved temp file at index 3960/20360!
+[2024-02-12 22:37:09] Saved temp file at index 3970/20360!
+[2024-02-12 22:37:16] Saved temp file at index 3980/20360!
+[2024-02-12 22:37:46] Saved temp file at index 3990/20360!
+[2024-02-12 22:38:49] Saved temp file at index 4000/20360!
+[2024-02-12 22:39:27] Saved temp file at index 4010/20360!
+[2024-02-12 22:40:00] Saved temp file at index 4020/20360!
+[2024-02-12 22:41:59] Saved temp file at index 4030/20360!
+[2024-02-12 22:46:56] Saved temp file at index 4040/20360!
+[2024-02-12 22:48:29] Saved temp file at index 4050/20360!
+[2024-02-12 22:50:25] Saved temp file at index 4060/20360!
+[2024-02-12 22:51:17] Saved temp file at index 4070/20360!
+[2024-02-12 22:52:17] Saved temp file at index 4080/20360!
+[2024-02-12 22:53:04] Saved temp file at index 4090/20360!
+[2024-02-12 22:55:41] Saved temp file at index 4100/20360!
+[2024-02-12 22:56:49] Saved temp file at index 4110/20360!
+[2024-02-12 22:58:28] Saved temp file at index 4120/20360!
+[2024-02-12 22:58:38] Saved temp file at index 4130/20360!
+[2024-02-12 23:00:11] Saved temp file at index 4140/20360!
+[2024-02-12 23:00:58] Saved temp file at index 4150/20360!
+[2024-02-12 23:02:04] Saved temp file at index 4160/20360!
+[2024-02-12 23:03:13] Saved temp file at index 4170/20360!
+[2024-02-12 23:05:03] Saved temp file at index 4180/20360!
+[2024-02-12 23:05:52] Saved temp file at index 4190/20360!
+[2024-02-12 23:07:44] Saved temp file at index 4200/20360!
+[2024-02-12 23:09:04] Saved temp file at index 4210/20360!
+[2024-02-12 23:09:56] Saved temp file at index 4220/20360!
+[2024-02-12 23:10:35] Saved temp file at index 4230/20360!
+[2024-02-12 23:12:29] Saved temp file at index 4240/20360!
+[2024-02-12 23:14:27] Saved temp file at index 4250/20360!
+[2024-02-12 23:15:33] Saved temp file at index 4260/20360!
+[2024-02-12 23:18:21] Saved temp file at index 4270/20360!
+[2024-02-12 23:19:50] Saved temp file at index 4280/20360!
+[2024-02-12 23:20:27] Saved temp file at index 4290/20360!
+[2024-02-12 23:20:48] Saved temp file at index 4300/20360!
+[2024-02-12 23:22:21] Saved temp file at index 4310/20360!
+[2024-02-12 23:23:20] Saved temp file at index 4320/20360!
+[2024-02-12 23:27:52] Saved temp file at index 4330/20360!
+[2024-02-12 23:28:42] Saved temp file at index 4340/20360!
+[2024-02-12 23:30:01] Saved temp file at index 4350/20360!
+[2024-02-12 23:31:06] Saved temp file at index 4360/20360!
+[2024-02-12 23:32:27] Saved temp file at index 4370/20360!
+[2024-02-12 23:33:40] Saved temp file at index 4380/20360!
+[2024-02-12 23:36:03] Saved temp file at index 4390/20360!
+[2024-02-12 23:37:01] Saved temp file at index 4400/20360!
+[2024-02-12 23:37:59] Saved temp file at index 4410/20360!
+[2024-02-12 23:38:24] Saved temp file at index 4420/20360!
+[2024-02-12 23:40:16] Saved temp file at index 4430/20360!
+[2024-02-12 23:40:34] Saved temp file at index 4440/20360!
+[2024-02-12 23:41:35] Saved temp file at index 4450/20360!
+[2024-02-12 23:41:48] Saved temp file at index 4460/20360!
+[2024-02-12 23:43:31] Saved temp file at index 4470/20360!
+[2024-02-12 23:44:24] Saved temp file at index 4480/20360!
+[2024-02-12 23:45:01] Saved temp file at index 4490/20360!
+[2024-02-12 23:45:42] Saved temp file at index 4500/20360!
+[2024-02-12 23:47:51] Saved temp file at index 4510/20360!
+[2024-02-12 23:49:20] Saved temp file at index 4520/20360!
+[2024-02-12 23:50:23] Saved temp file at index 4530/20360!
+[2024-02-12 23:51:36] Saved temp file at index 4540/20360!
+[2024-02-12 23:52:03] Saved temp file at index 4550/20360!
+[2024-02-12 23:52:44] Saved temp file at index 4560/20360!
+[2024-02-12 23:52:54] Saved temp file at index 4570/20360!
+[2024-02-12 23:55:31] Saved temp file at index 4580/20360!
+[2024-02-12 23:58:24] Saved temp file at index 4590/20360!
+[2024-02-12 23:59:10] Saved temp file at index 4600/20360!
+[2024-02-13 00:00:09] Saved temp file at index 4610/20360!
+[2024-02-13 00:02:06] Saved temp file at index 4620/20360!
+[2024-02-13 00:03:10] Saved temp file at index 4630/20360!
+[2024-02-13 00:05:10] Saved temp file at index 4640/20360!
+[2024-02-13 00:07:01] Saved temp file at index 4650/20360!
+[2024-02-13 00:08:18] Saved temp file at index 4660/20360!
+[2024-02-13 00:09:20] Saved temp file at index 4670/20360!
+[2024-02-13 00:09:41] Saved temp file at index 4680/20360!
+[2024-02-13 00:10:00] Saved temp file at index 4690/20360!
+[2024-02-13 00:10:24] Saved temp file at index 4700/20360!
+[2024-02-13 00:11:55] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  According to the Diagnostic and Statistical Manual of Mental Disorders (DSM), it is a paraphilia in which adults or adolescents 16 years of age or older have intense and recurrent sexual urges towards and fantasies about prepubescent children that they have either acted on or which cause they distress or interpersonal difficulty.
+
+Relational paths:
+Relational Path 1: ('Ham house, Llantwit Major, Glamorganshire', 'depicts', 'child')('Ham house, Llantwit Major, Glamorganshire', 'depicts', 'adult') 
+ Relational Path 2: ('The keep of Ragland Castle, Monmouthshire', 'depicts', 'child')('The keep of Ragland Castle, Monmouthshire', 'depicts', 'adult') 
+ Relational Path 3: ('Tintern Abbey, Monmouthshire', 'depicts', 'child')('Tintern Abbey, Monmouthshire', 'depicts', 'adult') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:11:59] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  According to the Diagnostic and Statistical Manual of Mental Disorders (DSM), it is a paraphilia in which adults or adolescents 16 years of age or older have intense and recurrent sexual urges towards and fantasies about prepubescent children that they have either acted on or which cause they distress or interpersonal difficulty.
+
+Relational paths:
+Relational Path 1: ('Ham house, Llantwit Major, Glamorganshire', 'depicts', 'adult')('Ham house, Llantwit Major, Glamorganshire', 'depicts', 'child') 
+ Relational Path 2: ('The keep of Ragland Castle, Monmouthshire', 'depicts', 'adult')('The keep of Ragland Castle, Monmouthshire', 'depicts', 'child') 
+ Relational Path 3: ('Tintern Abbey, Monmouthshire', 'depicts', 'adult')('Tintern Abbey, Monmouthshire', 'depicts', 'child') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:11:59] Saved temp file at index 4710/20360!
+[2024-02-13 00:12:54] Saved temp file at index 4720/20360!
+[2024-02-13 00:13:21] Saved temp file at index 4730/20360!
+[2024-02-13 00:14:07] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Paper Clips Project', 'main subject', 'The Holocaust')('Paper Clips Project', 'main subject', 'World War II')('World War II', 'has cause', 'Adolf Hitler') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:14:08] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('The Reader', 'main subject', 'The Holocaust')('The Reader', 'original language of film or TV show', 'Greek') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:14:20] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Generalplan Ost', 'instance of', 'plan')('Generalplan Ost', 'conflict', 'World War II')('World War II', 'has cause', 'Adolf Hitler') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:14:41] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Nazi Germany', 'participant in', 'World War II')('Generalplan Ost', 'conflict', 'World War II')('Generalplan Ost', 'instance of', 'plan') 
+ Relational Path 2: ('Nazi Germany', 'shares border with', 'Netherlands')("Plan général d'élargissement d'Amsterdam", 'country', 'Netherlands')("Plan général d'élargissement d'Amsterdam", 'instance of', 'plan') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:14:46] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('100 words of century', 'has part(s)', 'genocide')('100 words of century', 'has part(s)', 'The Holocaust') 
+ Relational Path 2: ('Surviving the Holocaust: a meta-analysis of the long-term sequelae of a genocide', 'main subject', 'genocide')('Surviving the Holocaust: a meta-analysis of the long-term sequelae of a genocide', 'main subject', 'The Holocaust') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:14:59] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Plan Z', 'conflict', 'World War II')('Plan Z', 'instance of', 'plan') 
+ Relational Path 2: ('Generalplan Ost', 'conflict', 'World War II')('Generalplan Ost', 'instance of', 'plan') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:03] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('100 words of century', 'has part(s)', 'The Holocaust')('100 words of century', 'has part(s)', 'genocide') 
+ Relational Path 2: ('Surviving the Holocaust: a meta-analysis of the long-term sequelae of a genocide', 'main subject', 'The Holocaust')('Surviving the Holocaust: a meta-analysis of the long-term sequelae of a genocide', 'main subject', 'genocide') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:14] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Michael Pragai', 'languages spoken, written or signed', 'Hebrew')('Michael Pragai', 'country of citizenship', 'Nazi Germany') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:17] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Moses Elisaf', 'languages spoken, written or signed', 'Greek')('Moses Elisaf', 'ethnic group', 'Jewish people') 
+ Relational Path 2: ('Moses Elisaf', 'native language', 'Greek')('Moses Elisaf', 'ethnic group', 'Jewish people') 
+ Relational Path 3: ('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek')('L. L. Zamenhof', 'ethnic group', 'Jewish people') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:29] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Omar Khalid Gutaale', 'field of work', 'mass murder')('Omar Khalid Gutaale', 'field of work', 'genocide') 
+ Relational Path 2: ('American Horror Story: Coven', 'main subject', 'mass murder')('American Horror Story: Coven', 'main subject', 'genocide') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:51] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'genocide')('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'World War II') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:15:55] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Nazi Party', 'country', 'Germany')('Explosion at Prüm', 'country', 'Germany')('Explosion at Prüm', 'instance of', 'disaster') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:00] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Jean Tatlian', 'languages spoken, written or signed', 'Yiddish')('Jean Tatlian', 'languages spoken, written or signed', 'Greek') 
+ Relational Path 2: ('L. L. Zamenhof', 'languages spoken, written or signed', 'Yiddish')('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek') 
+ Relational Path 3: ('L. L. Zamenhof', 'writing language', 'Yiddish')('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:00] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'Greek')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'German')('Nazi Germany', 'language used', 'German') 
+ Relational Path 2: ('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'Greek')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'German')('Nazi Germany', 'official language', 'German') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:19] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('The Reader', 'original language of film or TV show', 'Greek')('The Reader', 'main subject', 'The Holocaust') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:32] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'World War II')('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'genocide') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:50] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('World War II', 'has cause', 'Adolf Hitler')('Generalplan Ost', 'conflict', 'World War II')('Generalplan Ost', 'instance of', 'plan') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:16:51] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Nazi Germany', 'language used', 'German')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'German')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'Greek') 
+ Relational Path 2: ('Nazi Germany', 'official language', 'German')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'German')('Provinz Yunnan in China - 20 Bergleute tot', 'language of work or name', 'Greek') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:03] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('murder of Neta Sorek and Kristine Luken', 'instance of', 'murder')('murder of Neta Sorek and Kristine Luken', 'country', 'Israel')('Israel', 'language used', 'Yiddish') 
+ Relational Path 2: ('הרצח בגן מאיר', 'instance of', 'murder')('הרצח בגן מאיר', 'country', 'Israel')('Israel', 'language used', 'Yiddish') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:05] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Israel', 'official language', 'Hebrew')("Ma'ale Akrabim massacre", 'country', 'Israel')("Ma'ale Akrabim massacre", 'instance of', 'mass murder') 
+ Relational Path 2: ('Israel', 'language used', 'Hebrew')("Ma'ale Akrabim massacre", 'country', 'Israel')("Ma'ale Akrabim massacre", 'instance of', 'mass murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:22] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Omar Khalid Gutaale', 'field of work', 'genocide')('Omar Khalid Gutaale', 'field of work', 'mass murder') 
+ Relational Path 2: ('American Horror Story: Coven', 'main subject', 'genocide')('American Horror Story: Coven', 'main subject', 'mass murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:26] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('mass murder', 'subclass of', 'murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:31] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Plan Z', 'instance of', 'plan')('Plan Z', 'conflict', 'World War II') 
+ Relational Path 2: ('Generalplan Ost', 'instance of', 'plan')('Generalplan Ost', 'conflict', 'World War II') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:38] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Alliance for Progress', 'instance of', 'plan')('Alliance for Progress', 'described by source', 'Armenian Soviet Encyclopedia')('murder', 'described by source', 'Armenian Soviet Encyclopedia') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:17:52] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ("Plan général d'élargissement d'Amsterdam", 'instance of', 'plan')("Plan général d'élargissement d'Amsterdam", 'country', 'Netherlands')('Nazi Germany', 'shares border with', 'Netherlands') 
+ Relational Path 2: ('Generalplan Ost', 'instance of', 'plan')('Generalplan Ost', 'conflict', 'World War II')('Nazi Germany', 'participant in', 'World War II') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:18:14] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('World War II', 'has cause', 'Adolf Hitler')('Paper Clips Project', 'main subject', 'World War II')('Paper Clips Project', 'main subject', 'The Holocaust') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:18:33] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Transport and murder of Białystok children', 'part of', 'The Holocaust')('Transport and murder of Białystok children', 'instance of', 'mass murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:18:48] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('murder', 'described by source', 'Armenian Soviet Encyclopedia')('Alliance for Progress', 'described by source', 'Armenian Soviet Encyclopedia')('Alliance for Progress', 'instance of', 'plan') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:19:04] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Transport and murder of Białystok children', 'instance of', 'mass murder')('Transport and murder of Białystok children', 'part of', 'The Holocaust') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:19:11] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Jean Tatlian', 'languages spoken, written or signed', 'Greek')('Jean Tatlian', 'languages spoken, written or signed', 'Yiddish') 
+ Relational Path 2: ('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek')('L. L. Zamenhof', 'languages spoken, written or signed', 'Yiddish') 
+ Relational Path 3: ('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek')('L. L. Zamenhof', 'writing language', 'Yiddish') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:19:32] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Israel', 'language used', 'Yiddish')('murder of Neta Sorek and Kristine Luken', 'country', 'Israel')('murder of Neta Sorek and Kristine Luken', 'instance of', 'murder') 
+ Relational Path 2: ('Israel', 'language used', 'Yiddish')('הרצח בגן מאיר', 'country', 'Israel')('הרצח בגן מאיר', 'instance of', 'murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:19:42] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Das Vort', 'language of work or name', 'Yiddish')('Das Vort', 'country of origin', 'Lithuania')('Nazi Germany', 'shares border with', 'Lithuania') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:19:58] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Michael Pragai', 'country of citizenship', 'Nazi Germany')('Michael Pragai', 'languages spoken, written or signed', 'Hebrew') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:03] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('World War II', 'has cause', 'Adolf Hitler')('Moord op Pieter Hoppen', 'time period', 'World War II')('Moord op Pieter Hoppen', 'instance of', 'murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:26] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('mass murder', 'subclass of', 'murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:27] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Nazi Germany', 'shares border with', 'Lithuania')('Das Vort', 'country of origin', 'Lithuania')('Das Vort', 'language of work or name', 'Yiddish') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:31] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Moses Elisaf', 'ethnic group', 'Jewish people')('Moses Elisaf', 'languages spoken, written or signed', 'Greek') 
+ Relational Path 2: ('Moses Elisaf', 'ethnic group', 'Jewish people')('Moses Elisaf', 'native language', 'Greek') 
+ Relational Path 3: ('L. L. Zamenhof', 'ethnic group', 'Jewish people')('L. L. Zamenhof', 'languages spoken, written or signed', 'Greek') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:38] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Moord op Pieter Hoppen', 'instance of', 'murder')('Moord op Pieter Hoppen', 'time period', 'World War II')('World War II', 'has cause', 'Adolf Hitler') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:50] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Israel', 'language used', 'Yiddish')("Ma'ale Akrabim massacre", 'country', 'Israel')("Ma'ale Akrabim massacre", 'instance of', 'mass murder') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:50] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ("Ma'ale Akrabim massacre", 'instance of', 'mass murder')("Ma'ale Akrabim massacre", 'country', 'Israel')('Israel', 'official language', 'Hebrew') 
+ Relational Path 2: ("Ma'ale Akrabim massacre", 'instance of', 'mass murder')("Ma'ale Akrabim massacre", 'country', 'Israel')('Israel', 'language used', 'Hebrew') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:20:57] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ('Explosion at Prüm', 'instance of', 'disaster')('Explosion at Prüm', 'country', 'Germany')('Nazi Party', 'country', 'Germany') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:21:02] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  The Holocaust (from the Greek ': hólos, "whole" and kaustós, "burnt") also known as the Shoah ( Hebrew : , HaShoah, "catastrophe"; Yiddish : , Churben or Hurban, from the Hebrew for "destruction"), was the mass murder or genocide of approximately six million Jews during World War II , a programme of systematic state-sponsored murder by Nazi Germany , led by Adolf Hitler and the Nazi Party , throughout German-occupied territory.
+
+Relational paths:
+Relational Path 1: ("Ma'ale Akrabim massacre", 'instance of', 'mass murder')("Ma'ale Akrabim massacre", 'country', 'Israel')('Israel', 'language used', 'Yiddish') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:21:15] Saved temp file at index 4740/20360!
+[2024-02-13 00:24:21] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  Every arm of Germany's bureaucracy was involved in the logistics that led to the genocides, turning the Third Reich into what one Holocaust scholar has called "a genocidal state".
+
+Relational paths:
+Relational Path 1: ('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'genocide')('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'hyperpower')('hyperpower', 'subclass of', 'state') 
+ Relational Path 2: ('genocide of indigenous peoples', 'subclass of', 'genocide')('genocide of indigenous peoples', 'on focus list of Wikimedia project', 'WikiProject Human Rights')('state', 'on focus list of Wikimedia project', 'WikiProject Human Rights') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:24:21] Failed to generate GPT response for prompt: 
+Given the input sentence and the following relational paths, retain only the paths that are relevant to the input sentence.
+Relevant paths are those that can help provide any useful information about the input sentence.
+
+A relational path is a list of set of triplets in which the tail of each fact corresponds to the head of the next one. 
+
+The valid relational paths are given are numbered and given as options. 
+
+Input sentence:  Every arm of Germany's bureaucracy was involved in the logistics that led to the genocides, turning the Third Reich into what one Holocaust scholar has called "a genocidal state".
+
+Relational paths:
+Relational Path 1: ('state', 'on focus list of Wikimedia project', 'WikiProject Human Rights')('genocide of indigenous peoples', 'on focus list of Wikimedia project', 'WikiProject Human Rights')('genocide of indigenous peoples', 'subclass of', 'genocide') 
+ Relational Path 2: ('hyperpower', 'subclass of', 'state')('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'hyperpower')('discours du Président de la République à la 73e Assemblée générale des Nations unies', 'depicts', 'genocide') 
+ 
+
+Return only the relevant paths. If there are no relevant paths, return "No relevant paths". More than one path may be relevant.
+Generate an explanation for the selected relational path.
+
+
+Format your response as follows: #Relational Path: <number># [Subset of relevant triplets] *Explanation: <explanation>*
+, due to error: Error code: 400 - {'error': {'message': "The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400}}
+[2024-02-13 00:25:04] Saved temp file at index 4750/20360!
+[2024-02-13 00:28:03] Saved temp file at index 4760/20360!
+[2024-02-13 00:28:45] Saved temp file at index 4770/20360!
+[2024-02-13 00:29:00] Saved temp file at index 4780/20360!
+[2024-02-13 00:30:46] Saved temp file at index 4790/20360!
+[2024-02-13 00:32:40] Saved temp file at index 4800/20360!
+[2024-02-13 00:33:21] Saved temp file at index 4810/20360!
+[2024-02-13 00:36:33] Saved temp file at index 4820/20360!
+[2024-02-13 00:37:59] Saved temp file at index 4830/20360!
+[2024-02-13 00:38:25] Saved temp file at index 4840/20360!
+[2024-02-13 00:39:52] Saved temp file at index 4850/20360!
+[2024-02-13 00:40:31] Saved temp file at index 4860/20360!
+[2024-02-13 00:40:41] Saved temp file at index 4870/20360!
+[2024-02-13 00:41:55] Saved temp file at index 4880/20360!
+[2024-02-13 00:42:16] Saved temp file at index 4890/20360!
+[2024-02-13 00:45:47] Saved temp file at index 4900/20360!
+[2024-02-13 00:49:08] Saved temp file at index 4910/20360!
+[2024-02-13 00:50:02] Saved temp file at index 4920/20360!
+[2024-02-13 00:50:39] Saved temp file at index 4930/20360!
+[2024-02-13 00:52:40] Saved temp file at index 4940/20360!
+[2024-02-13 00:52:47] Saved temp file at index 4950/20360!
+[2024-02-13 00:54:49] Saved temp file at index 4960/20360!
+[2024-02-13 00:55:19] Saved temp file at index 4970/20360!
+[2024-02-13 00:55:40] Saved temp file at index 4980/20360!
+[2024-02-13 00:56:04] Saved temp file at index 4990/20360!
+[2024-02-13 00:56:14] Saved temp file at index 5000/20360!
+[2024-02-13 00:56:43] Saved temp file at index 5010/20360!
+[2024-02-13 00:57:16] Saved temp file at index 5020/20360!
+[2024-02-13 01:00:06] Saved temp file at index 5030/20360!
+[2024-02-13 01:01:15] Saved temp file at index 5040/20360!
+[2024-02-13 01:02:13] Saved temp file at index 5050/20360!
+[2024-02-13 01:04:12] Saved temp file at index 5060/20360!
+[2024-02-13 01:05:13] Saved temp file at index 5070/20360!
+[2024-02-13 01:05:45] Saved temp file at index 5080/20360!
+[2024-02-13 01:06:30] Saved temp file at index 5090/20360!
+[2024-02-13 01:07:17] Saved temp file at index 5100/20360!
+[2024-02-13 01:08:08] Saved temp file at index 5110/20360!
+[2024-02-13 01:09:15] Saved temp file at index 5120/20360!
+[2024-02-13 01:11:22] Saved temp file at index 5130/20360!
+[2024-02-13 01:11:44] Saved temp file at index 5140/20360!
+[2024-02-13 01:12:30] Saved temp file at index 5150/20360!
+[2024-02-13 01:13:02] Saved temp file at index 5160/20360!
+[2024-02-13 01:14:02] Saved temp file at index 5170/20360!
+[2024-02-13 01:15:24] Saved temp file at index 5180/20360!
+[2024-02-13 01:16:29] Saved temp file at index 5190/20360!
+[2024-02-13 01:16:37] Saved temp file at index 5200/20360!
+[2024-02-13 01:16:57] Saved temp file at index 5210/20360!
+[2024-02-13 01:17:33] Saved temp file at index 5220/20360!
+[2024-02-13 01:20:14] Saved temp file at index 5230/20360!
+[2024-02-13 01:21:01] Saved temp file at index 5240/20360!
+[2024-02-13 01:23:10] Saved temp file at index 5250/20360!
+[2024-02-13 01:24:46] Saved temp file at index 5260/20360!
+[2024-02-13 01:27:58] Saved temp file at index 5270/20360!
+[2024-02-13 01:29:03] Saved temp file at index 5280/20360!
+[2024-02-13 01:30:48] Saved temp file at index 5290/20360!
+[2024-02-13 01:32:42] Saved temp file at index 5300/20360!
+[2024-02-13 01:34:15] Saved temp file at index 5310/20360!
+[2024-02-13 01:35:17] Saved temp file at index 5320/20360!
+[2024-02-13 01:35:55] Saved temp file at index 5330/20360!
+[2024-02-13 01:36:52] Saved temp file at index 5340/20360!
+[2024-02-13 01:37:41] Saved temp file at index 5350/20360!
+[2024-02-13 01:38:00] Saved temp file at index 5360/20360!
+[2024-02-13 01:38:17] Saved temp file at index 5370/20360!
+[2024-02-13 01:38:35] Saved temp file at index 5380/20360!
+[2024-02-13 01:41:08] Saved temp file at index 5390/20360!
+[2024-02-13 01:43:47] Saved temp file at index 5400/20360!
+[2024-02-13 01:45:13] Saved temp file at index 5410/20360!
+[2024-02-13 01:46:49] Saved temp file at index 5420/20360!
+[2024-02-13 01:47:23] Saved temp file at index 5430/20360!
+[2024-02-13 01:48:23] Saved temp file at index 5440/20360!
+[2024-02-13 01:50:17] Saved temp file at index 5450/20360!
+[2024-02-13 01:52:10] Saved temp file at index 5460/20360!
+[2024-02-13 01:55:14] Saved temp file at index 5470/20360!
+[2024-02-13 01:55:55] Saved temp file at index 5480/20360!
+[2024-02-13 01:58:01] Saved temp file at index 5490/20360!
+[2024-02-13 02:00:03] Saved temp file at index 5500/20360!
+[2024-02-13 02:01:25] Saved temp file at index 5510/20360!
+[2024-02-13 02:04:43] Saved temp file at index 5520/20360!
+[2024-02-13 02:05:34] Saved temp file at index 5530/20360!
+[2024-02-13 02:07:23] Saved temp file at index 5540/20360!
+[2024-02-13 02:08:00] Saved temp file at index 5550/20360!
+[2024-02-13 02:09:54] Saved temp file at index 5560/20360!
+[2024-02-13 02:13:21] Saved temp file at index 5570/20360!
+[2024-02-13 02:14:42] Saved temp file at index 5580/20360!
+[2024-02-13 02:14:42] Saved temp file at index 5590/20360!
+[2024-02-13 02:15:44] Saved temp file at index 5600/20360!
+[2024-02-13 02:17:28] Saved temp file at index 5610/20360!
+[2024-02-13 02:18:49] Saved temp file at index 5620/20360!
+[2024-02-13 02:20:05] Saved temp file at index 5630/20360!
+[2024-02-13 02:21:54] Saved temp file at index 5640/20360!
+[2024-02-13 02:22:08] Saved temp file at index 5650/20360!
+[2024-02-13 02:22:57] Saved temp file at index 5660/20360!
+[2024-02-13 02:24:51] Saved temp file at index 5670/20360!
+[2024-02-13 02:25:57] Saved temp file at index 5680/20360!
+[2024-02-13 02:27:43] Saved temp file at index 5690/20360!
+[2024-02-13 02:28:09] Saved temp file at index 5700/20360!
+[2024-02-13 02:29:33] Saved temp file at index 5710/20360!
+[2024-02-13 02:32:29] Saved temp file at index 5720/20360!
+[2024-02-13 02:32:48] Saved temp file at index 5730/20360!
+[2024-02-13 02:33:21] Saved temp file at index 5740/20360!
+[2024-02-13 02:34:40] Saved temp file at index 5750/20360!
+[2024-02-13 02:35:25] Saved temp file at index 5760/20360!
+[2024-02-13 02:36:23] Saved temp file at index 5770/20360!
+[2024-02-13 02:37:37] Saved temp file at index 5780/20360!
+[2024-02-13 02:39:38] Saved temp file at index 5790/20360!
+[2024-02-13 02:40:00] Saved temp file at index 5800/20360!
+[2024-02-13 02:41:05] Saved temp file at index 5810/20360!
+[2024-02-13 02:41:19] Saved temp file at index 5820/20360!
+[2024-02-13 02:42:38] Saved temp file at index 5830/20360!
+[2024-02-13 02:43:57] Saved temp file at index 5840/20360!
+[2024-02-13 02:44:48] Saved temp file at index 5850/20360!
+[2024-02-13 02:45:15] Saved temp file at index 5860/20360!
+[2024-02-13 02:46:07] Saved temp file at index 5870/20360!
+[2024-02-13 02:46:56] Saved temp file at index 5880/20360!
+[2024-02-13 02:47:05] Saved temp file at index 5890/20360!
+[2024-02-13 02:49:42] Saved temp file at index 5900/20360!
+[2024-02-13 02:54:13] Saved temp file at index 5910/20360!
+[2024-02-13 02:54:35] Saved temp file at index 5920/20360!
+[2024-02-13 02:55:41] Saved temp file at index 5930/20360!
+[2024-02-13 02:56:59] Saved temp file at index 5940/20360!
+[2024-02-13 02:59:17] Saved temp file at index 5950/20360!
+[2024-02-13 03:00:29] Saved temp file at index 5960/20360!
+[2024-02-13 03:03:07] Saved temp file at index 5970/20360!
+[2024-02-13 03:04:41] Saved temp file at index 5980/20360!
+[2024-02-13 03:05:07] Saved temp file at index 5990/20360!
+[2024-02-13 03:05:31] Saved temp file at index 6000/20360!
+[2024-02-13 03:06:15] Saved temp file at index 6010/20360!
+[2024-02-13 03:07:17] Saved temp file at index 6020/20360!
+[2024-02-13 03:08:16] Saved temp file at index 6030/20360!
+[2024-02-13 03:10:49] Saved temp file at index 6040/20360!
+[2024-02-13 03:13:37] Saved temp file at index 6050/20360!
+[2024-02-13 03:17:02] Saved temp file at index 6060/20360!
+[2024-02-13 03:18:03] Saved temp file at index 6070/20360!
+[2024-02-13 03:20:53] Saved temp file at index 6080/20360!
+[2024-02-13 03:21:42] Saved temp file at index 6090/20360!
+[2024-02-13 03:22:47] Saved temp file at index 6100/20360!
+[2024-02-13 03:24:44] Saved temp file at index 6110/20360!
+[2024-02-13 03:25:53] Saved temp file at index 6120/20360!
+[2024-02-13 03:26:10] Saved temp file at index 6130/20360!
+[2024-02-13 03:26:22] Saved temp file at index 6140/20360!
+[2024-02-13 03:27:35] Saved temp file at index 6150/20360!
+[2024-02-13 03:31:10] Saved temp file at index 6160/20360!
+[2024-02-13 03:32:42] Saved temp file at index 6170/20360!
+[2024-02-13 03:34:14] Saved temp file at index 6180/20360!
+[2024-02-13 03:35:04] Saved temp file at index 6190/20360!
+[2024-02-13 03:37:30] Saved temp file at index 6200/20360!
+[2024-02-13 03:40:48] Saved temp file at index 6210/20360!
+[2024-02-13 03:42:13] Saved temp file at index 6220/20360!
+[2024-02-13 03:43:18] Saved temp file at index 6230/20360!
+[2024-02-13 03:44:40] Saved temp file at index 6240/20360!
+[2024-02-13 03:45:10] Saved temp file at index 6250/20360!
+[2024-02-13 03:47:53] Saved temp file at index 6260/20360!
+[2024-02-13 03:49:24] Saved temp file at index 6270/20360!
+[2024-02-13 03:49:35] Saved temp file at index 6280/20360!
+[2024-02-13 03:50:26] Saved temp file at index 6290/20360!
+[2024-02-13 03:52:47] Saved temp file at index 6300/20360!
+[2024-02-13 03:53:17] Saved temp file at index 6310/20360!
+[2024-02-13 03:54:07] Saved temp file at index 6320/20360!
+[2024-02-13 03:55:42] Saved temp file at index 6330/20360!
+[2024-02-13 03:58:38] Saved temp file at index 6340/20360!
+[2024-02-13 04:00:09] Saved temp file at index 6350/20360!
+[2024-02-13 04:02:38] Saved temp file at index 6360/20360!
+[2024-02-13 04:05:03] Saved temp file at index 6370/20360!
+[2024-02-13 04:07:51] Saved temp file at index 6380/20360!
+[2024-02-13 04:08:52] Saved temp file at index 6390/20360!
+[2024-02-13 04:10:28] Saved temp file at index 6400/20360!
+[2024-02-13 04:11:24] Saved temp file at index 6410/20360!
+[2024-02-13 04:11:31] Saved temp file at index 6420/20360!
+[2024-02-13 04:12:30] Saved temp file at index 6430/20360!
+[2024-02-13 04:16:42] Saved temp file at index 6440/20360!
+[2024-02-13 04:17:07] Saved temp file at index 6450/20360!
+[2024-02-13 04:19:02] Saved temp file at index 6460/20360!
+[2024-02-13 04:19:30] Saved temp file at index 6470/20360!
+[2024-02-13 04:19:55] Saved temp file at index 6480/20360!
+[2024-02-13 04:22:13] Saved temp file at index 6490/20360!
+[2024-02-13 04:23:27] Saved temp file at index 6500/20360!
+[2024-02-13 04:25:04] Saved temp file at index 6510/20360!
+[2024-02-13 04:25:41] Saved temp file at index 6520/20360!
+[2024-02-13 04:26:41] Saved temp file at index 6530/20360!
+[2024-02-13 04:27:47] Saved temp file at index 6540/20360!
+[2024-02-13 04:28:03] Saved temp file at index 6550/20360!
+[2024-02-13 04:29:22] Saved temp file at index 6560/20360!
+[2024-02-13 04:30:36] Saved temp file at index 6570/20360!
+[2024-02-13 04:31:09] Saved temp file at index 6580/20360!
+[2024-02-13 04:32:31] Saved temp file at index 6590/20360!
+[2024-02-13 04:36:29] Saved temp file at index 6600/20360!
+[2024-02-13 04:39:40] Saved temp file at index 6610/20360!
+[2024-02-13 04:46:37] Saved temp file at index 6620/20360!
+[2024-02-13 04:46:43] Saved temp file at index 6630/20360!
+[2024-02-13 04:47:04] Saved temp file at index 6640/20360!
+[2024-02-13 04:49:36] Saved temp file at index 6650/20360!
+[2024-02-13 04:49:41] Saved temp file at index 6660/20360!
+[2024-02-13 04:50:10] Saved temp file at index 6670/20360!
+[2024-02-13 04:51:38] Saved temp file at index 6680/20360!
+[2024-02-13 04:52:00] Saved temp file at index 6690/20360!
+[2024-02-13 04:52:15] Saved temp file at index 6700/20360!
+[2024-02-13 04:52:40] Saved temp file at index 6710/20360!
+[2024-02-13 04:52:53] Saved temp file at index 6720/20360!
+[2024-02-13 04:53:59] Saved temp file at index 6730/20360!
+[2024-02-13 04:55:50] Saved temp file at index 6740/20360!
+[2024-02-13 04:56:31] Saved temp file at index 6750/20360!
+[2024-02-13 04:57:08] Saved temp file at index 6760/20360!
+[2024-02-13 04:59:09] Saved temp file at index 6770/20360!
+[2024-02-13 05:00:51] Saved temp file at index 6780/20360!
+[2024-02-13 05:00:57] Saved temp file at index 6790/20360!
+[2024-02-13 05:01:08] Saved temp file at index 6800/20360!
+[2024-02-13 05:02:06] Saved temp file at index 6810/20360!
+[2024-02-13 05:02:48] Saved temp file at index 6820/20360!
+[2024-02-13 05:03:57] Saved temp file at index 6830/20360!
+[2024-02-13 05:08:54] Saved temp file at index 6840/20360!
+[2024-02-13 05:14:04] Saved temp file at index 6850/20360!
+[2024-02-13 05:15:05] Saved temp file at index 6860/20360!
+[2024-02-13 05:16:29] Saved temp file at index 6870/20360!
+[2024-02-13 05:17:56] Saved temp file at index 6880/20360!
+[2024-02-13 05:19:05] Saved temp file at index 6890/20360!
+[2024-02-13 05:20:48] Saved temp file at index 6900/20360!
+[2024-02-13 05:21:20] Saved temp file at index 6910/20360!
+[2024-02-13 05:21:29] Saved temp file at index 6920/20360!
+[2024-02-13 05:21:42] Saved temp file at index 6930/20360!
+[2024-02-13 05:24:22] Saved temp file at index 6940/20360!
+[2024-02-13 05:25:14] Saved temp file at index 6950/20360!
+[2024-02-13 05:25:52] Saved temp file at index 6960/20360!
+[2024-02-13 05:26:05] Saved temp file at index 6970/20360!
+[2024-02-13 05:26:19] Saved temp file at index 6980/20360!
+[2024-02-13 05:26:52] Saved temp file at index 6990/20360!
+[2024-02-13 05:27:49] Saved temp file at index 7000/20360!
+[2024-02-13 05:28:14] Saved temp file at index 7010/20360!
+[2024-02-13 05:30:31] Saved temp file at index 7020/20360!
+[2024-02-13 05:31:27] Saved temp file at index 7030/20360!
+[2024-02-13 05:32:14] Saved temp file at index 7040/20360!
+[2024-02-13 05:33:27] Saved temp file at index 7050/20360!
+[2024-02-13 05:33:40] Saved temp file at index 7060/20360!
+[2024-02-13 05:34:10] Saved temp file at index 7070/20360!
+[2024-02-13 05:34:32] Saved temp file at index 7080/20360!
+[2024-02-13 05:36:15] Saved temp file at index 7090/20360!
+[2024-02-13 05:37:06] Saved temp file at index 7100/20360!
+[2024-02-13 05:38:29] Saved temp file at index 7110/20360!
+[2024-02-13 05:38:30] Saved temp file at index 7120/20360!
+[2024-02-13 05:38:41] Saved temp file at index 7130/20360!
+[2024-02-13 05:39:40] Saved temp file at index 7140/20360!
+[2024-02-13 05:41:05] Saved temp file at index 7150/20360!
+[2024-02-13 05:41:22] Saved temp file at index 7160/20360!
+[2024-02-13 05:42:55] Saved temp file at index 7170/20360!
+[2024-02-13 05:43:23] Saved temp file at index 7180/20360!
+[2024-02-13 05:44:47] Saved temp file at index 7190/20360!
+[2024-02-13 05:45:29] Saved temp file at index 7200/20360!
+[2024-02-13 05:46:32] Saved temp file at index 7210/20360!
+[2024-02-13 05:47:30] Saved temp file at index 7220/20360!
+[2024-02-13 05:48:24] Saved temp file at index 7230/20360!
+[2024-02-13 05:49:45] Saved temp file at index 7240/20360!
+[2024-02-13 05:54:18] Saved temp file at index 7250/20360!
+[2024-02-13 05:54:37] Saved temp file at index 7260/20360!
+[2024-02-13 05:55:20] Saved temp file at index 7270/20360!
+[2024-02-13 05:56:03] Saved temp file at index 7280/20360!
+[2024-02-13 05:56:18] Saved temp file at index 7290/20360!
+[2024-02-13 05:57:23] Saved temp file at index 7300/20360!
+[2024-02-13 05:58:21] Saved temp file at index 7310/20360!
+[2024-02-13 05:59:08] Saved temp file at index 7320/20360!
+[2024-02-13 06:00:26] Saved temp file at index 7330/20360!
+[2024-02-13 06:03:31] Saved temp file at index 7340/20360!
+[2024-02-13 06:05:19] Saved temp file at index 7350/20360!
+[2024-02-13 06:06:44] Saved temp file at index 7360/20360!
+[2024-02-13 06:07:03] Saved temp file at index 7370/20360!
+[2024-02-13 06:07:19] Saved temp file at index 7380/20360!
+[2024-02-13 06:07:38] Saved temp file at index 7390/20360!
+[2024-02-13 06:08:53] Saved temp file at index 7400/20360!
+[2024-02-13 06:13:28] Saved temp file at index 7410/20360!
+[2024-02-13 06:14:23] Saved temp file at index 7420/20360!
+[2024-02-13 06:15:32] Saved temp file at index 7430/20360!
+[2024-02-13 06:16:20] Saved temp file at index 7440/20360!
+[2024-02-13 06:16:21] Saved temp file at index 7450/20360!
+[2024-02-13 06:17:39] Saved temp file at index 7460/20360!
+[2024-02-13 06:18:47] Saved temp file at index 7470/20360!
+[2024-02-13 06:19:34] Saved temp file at index 7480/20360!
+[2024-02-13 06:19:41] Saved temp file at index 7490/20360!
