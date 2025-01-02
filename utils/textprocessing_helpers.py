@@ -1,8 +1,34 @@
 import spacy_universal_sentence_encoder
+import spacy
+import neuralcoref
+from utils.woolnet_pipe import get_woolnet_paths
+from wiki_helpers import getWikiInfo, prepare_candidates, retrieveTriplets
 
 
-# load one of the models: ['en_use_md', 'en_use_lg', 'xx_use_md', 'xx_use_lg']
-nlp = spacy_universal_sentence_encoder.load_model('en_use_lg')
+nlp = spacy.load('en_core_web_sm')
+# Add neural coref to SpaCy's pipe
+neuralcoref.add_to_pipe(nlp)
+
+
+def resolve_coreference(ip_text):
+    doc = nlp(ip_text)
+    op_text = str(doc._.coref_resolved)
+    return op_text
+
+def get_rel_paths(ip_text):
+    wikient = getWikiInfo(ip_text)
+    candidates = prepare_candidates(wikient)
+    paths_all = []
+    for i in range(len(candidates)):
+        cand = candidates[i]
+        paths = get_woolnet_paths(cand[0], cand[1])
+        paths_all.append(paths)
+    return paths_all, wikient
+
+def preprocess(ip_text):
+    ip_coref = resolve_coreference(ip_text)
+    paths, wikients = get_rel_paths(ip_coref)
+    return paths, wikients
 
 def semantic_similarity(sentence1, sentence2):
     # Load the medium English model
@@ -24,3 +50,4 @@ def filter_relevant_entities(ipSentence, wikient):
             relevant_wikient.append(wikient[i])
 
     return relevant_wikient
+

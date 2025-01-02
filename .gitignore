@@ -1,7 +1,9 @@
 utils/__pycache__
+__pycache__
 .amlignore
+.ipynb_checkpoints
 .amlignore.amltmp
 outputs
 inputs
-__pycache__
-.ipynb_checkpoints
+.envnotebooks/
+backup-repository/
